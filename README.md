@@ -1,4 +1,4 @@
 # PositionsCss
 At this page i worked about positions (relative,fixed,absolute,sticky,static..)
 <hr>
-<img src="Positions.jpg>
+<img src="https://raw.githubusercontent.com/SercaNisUzun/PositionsCss/main/Positions.jpg">
